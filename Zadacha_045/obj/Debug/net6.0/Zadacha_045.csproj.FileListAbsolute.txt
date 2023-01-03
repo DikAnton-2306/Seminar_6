@@ -1,0 +1,15 @@
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_6\Zadacha_045\bin\Debug\net6.0\Zadacha_045.exe
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_6\Zadacha_045\bin\Debug\net6.0\Zadacha_045.deps.json
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_6\Zadacha_045\bin\Debug\net6.0\Zadacha_045.runtimeconfig.json
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_6\Zadacha_045\bin\Debug\net6.0\Zadacha_045.dll
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_6\Zadacha_045\bin\Debug\net6.0\Zadacha_045.pdb
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_6\Zadacha_045\obj\Debug\net6.0\Zadacha_045.csproj.AssemblyReference.cache
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_6\Zadacha_045\obj\Debug\net6.0\Zadacha_045.GeneratedMSBuildEditorConfig.editorconfig
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_6\Zadacha_045\obj\Debug\net6.0\Zadacha_045.AssemblyInfoInputs.cache
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_6\Zadacha_045\obj\Debug\net6.0\Zadacha_045.AssemblyInfo.cs
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_6\Zadacha_045\obj\Debug\net6.0\Zadacha_045.csproj.CoreCompileInputs.cache
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_6\Zadacha_045\obj\Debug\net6.0\Zadacha_045.dll
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_6\Zadacha_045\obj\Debug\net6.0\refint\Zadacha_045.dll
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_6\Zadacha_045\obj\Debug\net6.0\Zadacha_045.pdb
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_6\Zadacha_045\obj\Debug\net6.0\Zadacha_045.genruntimeconfig.cache
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_6\Zadacha_045\obj\Debug\net6.0\ref\Zadacha_045.dll
