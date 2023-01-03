@@ -7,6 +7,7 @@ System.Console.WriteLine("Введите число");
 int N = Convert.ToInt32(Console.ReadLine());
 GetBinaryView(N);
 
+
 void GetBinaryView(int number)
 {
     if(number <= 0)
